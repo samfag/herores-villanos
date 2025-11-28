@@ -2,4 +2,5 @@
 |---------|-----|
 | Superman |  DC   |
 | Spiderman |  Marvel  |
-| Hulk |  Marvel  |
+|Mujer maravilla| DC|
+| Hulk | Marvel |
